@@ -1,0 +1,7 @@
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="karma_black">#0A0A0F</color>
+    <color name="karma_gold">#FFD700</color>
+    <color name="karma_surface">#141420</color>
+    <color name="karma_text">#F0F0F5</color>
+</resources>

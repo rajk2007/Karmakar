@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Karmakar" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/karma_black</item>
+        <item name="android:statusBarColor">@color/karma_black</item>
+    </style>
+</resources>
